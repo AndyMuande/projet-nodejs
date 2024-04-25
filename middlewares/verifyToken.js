@@ -11,3 +11,6 @@ function verifyToken(req, res, next) {
   });
 }
 module.exports = verifyToken;
+//if (err) return res.sendStatus(401);
+//if (err) return res.sendStatus(401);
+//if (err) return res.sendStatus(401);

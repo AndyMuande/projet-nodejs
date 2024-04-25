@@ -23,3 +23,7 @@ router.delete('/:id', userController.deleteUser);
 
 // Exporter le router pour pouvoir l'utiliser dans d'autres fichiers, notamment dans index.js
 module.exports = router;
+//if (err) return res.sendStatus(401);
+//if (err) return res.sendStatus(401);
+//if (err) return res.sendStatus(401);
+//if (err) return res.sendStatus(401);
